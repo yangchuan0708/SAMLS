@@ -1,5 +1,5 @@
 # SAMLS
-This is the pytorch implement of our paper "A Feature Fusion Method on Landslide Identification in Remote Sensing with Segment Anything Model"
+This is the pytorch implement of our paper "A Feature Fusion Method on Landslide Identification in Remote Sensing with Segment Anything Model"<br>The code is still in updating.
 ## Install
 
 ```shell
