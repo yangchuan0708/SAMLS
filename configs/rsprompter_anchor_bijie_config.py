@@ -88,8 +88,8 @@ evaluator = dict(
 )
 
 
-# image_size = (1024, 1024)
-image_size = (256, 256)
+image_size = (1024, 1024)
+# image_size = (256, 256)
 
 data_preprocessor1 = dict(
     type='mmdet.DetDataPreprocessor',
